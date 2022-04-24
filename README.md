@@ -52,3 +52,77 @@ https://ia601501.us.archive.org/1/items/god-vs-kong_1/god-vs-kong_1.mp4
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/occupation-2-1641231245.jpg", group-title="Ciencia Ficción", Ocupación
 
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/white-sky-2-1642667162.jpg", group-title="Ciencia Ficción", White Sky
+
+
+
+
+
+
+
+
+
+
+//El gran chaparral
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x01
+https://ia801402.us.archive.org/29/items/el-gran-chaparral-1x-7/El%20Gran%20Chaparral%201x1%20-.mp4
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x02 
+https://ia801402.us.archive.org/29/items/el-gran-chaparral-1x-7/El%20Gran%20Chaparral%201x2%20-%20El%20arreglo.mp4
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x03
+https://ia801402.us.archive.org/29/items/el-gran-chaparral-1x-7/El%20Gran%20Chaparral%201x3.mp4
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x04
+https://ia601402.us.archive.org/29/items/el-gran-chaparral-1x-7/El%20Gran%20Chaparral%201x4.mp4
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x05
+https://ia801402.us.archive.org/29/items/el-gran-chaparral-1x-7/El%20Gran%20Chaparral%201x5.mp4
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x06
+https://ia601402.us.archive.org/29/items/el-gran-chaparral-1x-7/El%20Gran%20Chaparral%201x6.mp4
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x07
+https://ia801402.us.archive.org/29/items/el-gran-chaparral-1x-7/El%20Gran%20Chaparral%201x7.mp4
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x08
+https://sto069.akamai-cdn-content.com/tysxfglv7k66j6cdacgrxrkagz3yle4zdige3vrlqs7kq2d7lbzre4drl6kq/el-gran-chaparral-temporada-1-capitulo-8_1.mp4
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x09
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x10
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x10
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x11
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x12
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x13
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x14
+https://sto018.akamai-cdn-content.com/tysxe5lg6666j6cdababvg26ey544cwjixjw3vk6yosznacp4hb6rpzf5vca/el-gran-chaparral-temporada-1-capitulo-14_1.mp4
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x15
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x16
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x17
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x18
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x19
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x20
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x21
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x22
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x23
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x24
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x25
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x26
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x27
+
+#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x28
+
+
+
+
+
+
