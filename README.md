@@ -78,33 +78,31 @@ https://ia601402.us.archive.org/29/items/el-gran-chaparral-1x-7/El%20Gran%20Chap
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x07
 https://ia801402.us.archive.org/29/items/el-gran-chaparral-1x-7/El%20Gran%20Chaparral%201x7.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x08
-https://sto069.akamai-cdn-content.com/tysxfglv7k66j6cdacgrxrkagz3yle4zdige3vrlqs7kq2d7lbzre4drl6kq/el-gran-chaparral-temporada-1-capitulo-8_1.mp4
+https://ia801402.us.archive.org/29/items/el-gran-chaparral-1x-7/El%20Gran%20Chaparral%201x8.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x09
-
+https://ia801506.us.archive.org/27/items/el-gran-chaparral-1x-14/El%20Gran%20Chaparral%201x9.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x10
-
-#EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x10
-
+https://ia801506.us.archive.org/27/items/el-gran-chaparral-1x-14/El%20Gran%20Chaparral%201x10.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x11
-
+https://ia601506.us.archive.org/27/items/el-gran-chaparral-1x-14/El%20Gran%20Chaparral%201x11.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x12
-
+https://ia601506.us.archive.org/27/items/el-gran-chaparral-1x-14/El%20Gran%20Chaparral%201x12.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x13
-
+https://ia801506.us.archive.org/27/items/el-gran-chaparral-1x-14/El%20Gran%20Chaparral%201x13.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x14
-https://sto018.akamai-cdn-content.com/tysxe5lg6666j6cdababvg26ey544cwjixjw3vk6yosznacp4hb6rpzf5vca/el-gran-chaparral-temporada-1-capitulo-14_1.mp4
+https://ia801506.us.archive.org/27/items/el-gran-chaparral-1x-14/El%20Gran%20Chaparral%201x14.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x15
-
+https://ia601506.us.archive.org/27/items/el-gran-chaparral-1x-14/El%20Gran%20Chaparral%201x15.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x16
-
+https://ia801506.us.archive.org/27/items/el-gran-chaparral-1x-14/El%20Gran%20Chaparral%201x16.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x17
-
+https://ia801506.us.archive.org/27/items/el-gran-chaparral-1x-14/El%20Gran%20Chaparral%201x17.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x18
-
+https://ia601506.us.archive.org/27/items/el-gran-chaparral-1x-14/El%20Gran%20Chaparral%201x18.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x19
-
+https://ia801506.us.archive.org/27/items/el-gran-chaparral-1x-14/El%20Gran%20Chaparral%201x19.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x20
-
+https://ia601506.us.archive.org/27/items/el-gran-chaparral-1x-14/El%20Gran%20Chaparral%201x20.mp4
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x21
 
 #EXTINF:-1 tvg-id="46" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81SECH8z0lL._SL1270_.jpg", group-title="EL GRAN CHAPARRAL", CAPITULO 1x22
