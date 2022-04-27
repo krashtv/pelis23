@@ -1,11 +1,22 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/03/harry-potter-piedra-filosofal.jpg", group-title="Harry Potter", 1 Harry Potter y La Piedra Filosofal
-
-
-#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/03/harry-potter-y-la-camara-secreta.jpg", group-title="Harry Potter", 2 Harry Potter y La Piedra Filosofal
-
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/03/harry-potter-piedra-filosofal.jpg", group-title="Harry Potter", Harry Potter 1
+https://ia601406.us.archive.org/26/items/h-4rry-p-0tt-3r-1/H4rry%20P0tt3r%201.mp4
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/03/harry-potter-y-la-camara-secreta.jpg", group-title="Harry Potter", Harry Potter 2
+https://ia601404.us.archive.org/6/items/h-4rry-p-00ter-2/H4rry%20P00ter%202.mp4
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/03/Harry-Potter-y-el-prisionero-de-Azkaban.jpg", group-title="Harry Potter", Harry Potter 3
+https://ia601403.us.archive.org/23/items/ha-4rry-po-0tt-3r-3/Ha4rry%20Po0tt3r%203.mp4
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/03/harry-potter-y-el-caliz-de-fuego.jpg", group-title="Harry Potter", Harry Potter 4
+https://ia601503.us.archive.org/22/items/h-4rry-p-0tter-4/H4rry%20P0tter%204-.mp4
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/03/Harry-Potter-y-la-Orden-del-Fenix.jpg", group-title="Harry Potter", Harry Potter 5
+https://ia601507.us.archive.org/18/items/h-4rry-po-0t-3r-5/H4rry%20Po0t3r%205.mp4
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/08/harry-potter-6.jpg", group-title="Harry Potter", Harry Potter 6
+https://ia601503.us.archive.org/27/items/h-4rry-p-0tt-3r-6/H4rry%20P0tt3r%206.mp4
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/08/Harry-Potter-y-las-reliquias-de-la-muerte-Parte-1.jpg", group-title="Harry Potter", Harry Potter 7-1
+https://ia601405.us.archive.org/29/items/harry-p-0tt-3r-7-1-part/harry%20p0tt3r%207%20-%201%20part.mp4
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/08/Harry-Potter-and-the-Deathly-Hallows-Part-2.jpg", group-title="Harry Potter", Harry Potter 7-2
+https://ia601404.us.archive.org/3/items/harry-pt-3er-7-2-part/harry%20%20pt3er%207%20-%202%20part.mp4
 
 
 
