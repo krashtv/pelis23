@@ -17,7 +17,17 @@ https://ia601503.us.archive.org/27/items/h-4rry-p-0tt-3r-6/H4rry%20P0tt3r%206.mp
 https://ia601405.us.archive.org/29/items/harry-p-0tt-3r-7-1-part/harry%20p0tt3r%207%20-%201%20part.mp4
 #EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/08/Harry-Potter-and-the-Deathly-Hallows-Part-2.jpg", group-title="Harry Potter", Harry Potter 7-2
 https://ia601404.us.archive.org/3/items/harry-pt-3er-7-2-part/harry%20%20pt3er%207%20-%202%20part.mp4
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2020/10/el-hombre-arana.jpg", group-title="Marvel", El Hombre Araña 1
 
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2021/09/spider-man-2.jpg", group-title="Marvel", El Hombre Araña 2
+
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2021/09/spider-man-3.jpg", group-title="Marvel", El Hombre Araña 3
+
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2021/11/el-sorprendente.jpg", group-title="Marvel", El Sorprendente Hombre-Araña 1
+
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2021/11/el-sorprendente-2.jpg", group-title="Marvel", El Sorprendente Hombre-Araña 2
+
+#EXTINF:-1 tvg-logo="https://pelispop.me/wp-content/uploads/2021/12/spider-man-2021.jpg", group-title="Marvel", Spider-Man: Sin Camino a Casa
 
 
 
